@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.10bbb641.css",
+    "main.js": "/my-app/static/js/main.b6aaf117.js",
+    "static/media/Sesh.gif": "/my-app/static/media/Sesh.173df9d51325fccb07b9.gif",
+    "static/media/2.PNG": "/my-app/static/media/2.5f0b3aa5d964109dd34d.PNG",
+    "static/media/filmsagecover.PNG": "/my-app/static/media/filmsagecover.c4f928929e741cb9dd0c.PNG",
+    "static/media/tylerProfile.jpg": "/my-app/static/media/tylerProfile.277ab4148a9a7b39bbf3.jpg",
+    "static/media/Resume.PNG": "/my-app/static/media/Resume.2f10641a20d66a429bf2.PNG",
+    "static/media/linkedinLogo.png": "/my-app/static/media/linkedinLogo.ab7644f18965cdeea483.png",
+    "static/media/pwgenprompt.PNG": "/my-app/static/media/pwgenprompt.90069beee04a6af4bde7.PNG",
+    "index.html": "/my-app/index.html",
+    "main.10bbb641.css.map": "/my-app/static/css/main.10bbb641.css.map",
+    "main.b6aaf117.js.map": "/my-app/static/js/main.b6aaf117.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10bbb641.css",
+    "static/js/main.b6aaf117.js"
+  ]
+}
