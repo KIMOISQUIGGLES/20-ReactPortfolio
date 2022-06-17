@@ -40,6 +40,6 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## My Links
 
-[GitHub]()
+[GitHub](https://github.com/KIMOISQUIGGLES/20-ReactPortfolio)
 
-[DeployedLink]()
+[DeployedLink](https://tyler-react-portfolio-app.herokuapp.com/)
